@@ -12,16 +12,16 @@ global.APIKeys = {
 
 //===> UBAH DISINI
 global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'RyuBotz MD' //Ganti Jadi Nama Botmu
-global.packname = '© Ryubotz MD' //Sticker Weem
-global.author = 'Ryubotz By Ryuuka Team' //Sticker Weem
+global.owner = ['18045292269','18045292269'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '18045292269' //Owner Utama Istilahnya
+global.namabot = 'ɪ ᴍ ᴇ ʟ B O T Z' //Ganti Jadi Nama Botmu
+global.packname = '© ɪ ᴍ ᴇ ʟ' //Sticker Weem
+global.author = 'B O T Z By ɪ ᴍ ᴇ ʟ' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com'
 global.sessionName = 'session'
 global.bg_welcome = 'https://telegra.ph/file/528b594d5d91c08482515.jpg' //Max 30kb Agar Tidak Delay
 global.youtube = 'https://youtube.com/c/RyuukaBotz'
-global.github = 'https://github.com/R-TEAM94'
+global.github = 'https://github.com'
 global.instagram = 'https://instagram.com/fandyyy._'
 
 //===> BACKGROUND SETIAP MENU
@@ -36,8 +36,8 @@ global.sp = '⭔'
 //===> EDIT SESUAI KEMAUANMU
 global.mess = {
 admin: '*LU ADMIN? 🤨*',
-botAdmin: '*BOT BUKAN ADMIN 😔*',
-owner: '*LU BUKAN OWNER GW 😠*',
+botAdmin: '*BOT BUKAN ADMIN 🗿*',
+owner: '*LU BUKAN OWNER GW 🥴*',
 group: '*KHUSUS GROUP 😏*',
 private: '*KHUSUS PRIVATE CHAT*',
 bot: '*KHUSUS PENGGUNA NOMER BOT*',
