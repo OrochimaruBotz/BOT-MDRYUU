@@ -19,7 +19,7 @@ Trace:
 npm manifest: 
   {
     "name": "RyuBotz",
-    "version": "4.0.0",
+    "version": "4.1.0",
     "description": "RyuBotz Multi Device",
     "main": "index.js",
     "type": "commonjs",
@@ -38,7 +38,7 @@ npm manifest:
     "author": "Ryuuka Team",
     "license": "MIT",
     "dependencies": {
-      "@adiwajshing/baileys": "^@adiwajshing/baileys@4.4.0",
+      "@adiwajshing/baileys": "@adiwajshing/baileys@4.4.0",
       "@adiwajshing/keyed-db": "^0.2.4",
       "awesome-phonenumber": "^2.64.0",
       "axios": "^0.24.0",
